@@ -3,7 +3,7 @@
   <p>Aplicativo mobile desenvolvido com React Native, Expo e TypeScript para comparar os preços da gasolina e do álcool.</p>
 
   <p>
-    <img src="https://github.com/joaovitor1-mg/App-Dados/blob/main/assets/visualizacao.jpg" alt="Visualização do aplicativo Gasolina ou Álcool?" width="220" />
+    <img src="https://github.com/joaovitor1-mg/Aplicacoes-Moveis/blob/main/App-Combustivel/assets/visualizacao.jpg" alt="Visualização do aplicativo Gasolina ou Álcool?" width="220" />
   </p>
 </div>
 
