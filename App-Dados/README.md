@@ -3,7 +3,7 @@
   <p>Aplicativo mobile desenvolvido com React Native, Expo e TypeScript para simular o sorteio de um dado.</p>
 
   <p>
-    <img src="https://github.com/joaovitor1-mg/App-Dados/blob/main/assets/visualizacao-projeto.jpg" alt="Visualização do aplicativo App Sorte" width="280" />
+    <img src="https://github.com/joaovitor1-mg/Aplicacoes-Moveis/blob/main/App-Dados/assets/visualizacao-projeto.jpg" alt="Visualização do aplicativo App Sorte" width="280" />
   </p>
 </div>
 
